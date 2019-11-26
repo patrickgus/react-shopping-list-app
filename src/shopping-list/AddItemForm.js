@@ -12,6 +12,6 @@ export default class AddItemForm extends React.Component {
           />
           <button type='submit'>Add Item</button>
         </form>
-      )
+      );
     }
   }

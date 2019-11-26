@@ -11,7 +11,7 @@ export default function ShoppingList(props) {
         />
       )}
     </ul>
-  )
+  );
 }
 
 ShoppingList.defaultProps = {
